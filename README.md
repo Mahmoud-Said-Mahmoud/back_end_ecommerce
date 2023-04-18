@@ -1,5 +1,6 @@
 
-============================================================install project=================================================================
+install project
+
 1-After Download project 
 2-open termnail and write
 3-composer install
